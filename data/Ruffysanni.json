@@ -1,0 +1,18 @@
+{
+  "name": "Ruffy Sanni",
+  "bio": "Open Source Developer | Software Developer - Javascript, ReactJs, C#",
+  "links": [
+    {
+      "group": "Socials",
+      "name": "Business: Developer Services",
+      "url": "https://www.linkedin.com/in/sanni-rufai/",
+      "icon": "FaLinkedIn"
+    },
+    {
+      "group": "Socials",
+      "name": "Business: Developer Services",
+      "url": "https://twitter.com/sruffy07",
+      "icon": "FaTwitter"
+    },
+  ]
+}
